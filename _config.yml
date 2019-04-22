@@ -80,5 +80,5 @@ theme: magnetic
 deploy:
   type: git
   repo: https://github.com/An0u/An0u.github.io
-  branch: master
+  branch: gh-pages
   message: "Docs updated: {{ now('YYYY-MM-DD HH:mm:ss') }})"
